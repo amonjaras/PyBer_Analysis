@@ -20,7 +20,7 @@ The second part of the project consist on create a summary of the ride-sharing d
 
 ## **2. Resources**
 Data provided to perform the analysis:
-- [City Data](../Resources/city_data.csv)
+- [City Data](../PyBer_Analysis/blob/main/Resources/city_data.csv)
 - [Ride Data](../Resources/ride_data.csv)
 
 [:top: Go To Top](#index)
