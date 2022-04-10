@@ -75,16 +75,23 @@ After the analysis, the results were displayed on the following chart:
 
 ![PyBer Summary](https://github.com/amonjaras/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
+We can notice that:
 
-
-
-
+- All cities increase the total fare by late February
+- Urban cities had the highest revenue :white_check_mark:, even though we can observe some fluctuations between late February and early April.
+- There is an increase of revenue for Suburban cities between mid February and early March :chart_with_upwards_trend:
+- Rural cities reaches the maximum fare, **$500** on April and decrease by mid April.
 
 [:top: Go To Top](#index)
 
 ## **4. Summary**
+Here some recommendations:
 
+1. Since Urban cities have the highest demand and highest revenue, PyBer should consider investing on advertising to help drivers to increase their fare.
 
+2. For Suburban cities, PyBer could consider the use of incentives to increase the demand on this type of cities.
+
+3. Rural cities, PyBer can consider the increase of drivers, it is observed that service is required in almost a constant phase. Fluctuation could be due to lesser offer to high demand.
 
 [:top: Go To Top](#index)
 
